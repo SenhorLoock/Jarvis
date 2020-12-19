@@ -8,7 +8,7 @@ sem='\033[0m'
 printf $azul
 echo '[*]Criador: Senhor Loock                                                    '
 printf $verde
-echo 'GitHub: https://github.com/shoowl                                           '
+echo 'GitHub: https://github.com/SenhorLoock                                           '
 printf $azul
 echo '###########################################################################'
 echo '###                                Jarvis                                ##'
